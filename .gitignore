@@ -9,9 +9,3 @@ _ss_environment.php
 
 # ignore composer vendor folder
 /vendor/
-
-silverstripe/cms
-silverstripe/framework
-silverstripe/reports
-silverstripe/siteconfig
-silverstripe-themes/simple
